@@ -15,7 +15,8 @@ html {
  box-sizing: border-box;
 }
 body {
- font-family: "Work Sans", Sans-serif;
+ font-family: "Work Sans", sans-serif;
+ font-style: normal;
 }
 .contenar {
  padding-left: 15px;
